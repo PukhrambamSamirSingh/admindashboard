@@ -1,0 +1,11 @@
+.list::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: red;
+  transform: translateX(-50%);
+}
