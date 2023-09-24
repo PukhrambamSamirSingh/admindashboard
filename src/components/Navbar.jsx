@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <div className="w-full p-5 flex justify-between">
             <div className="flex items-center gap-2">
-                <img className="w-10 h-10 object-cover" src="https://img.freepik.com/free-icon/diamond_318-195446.jpg" alt="" />
+                <img className="w-10 h-10 object-cover" src="https://cdn-icons-png.flaticon.com/512/6292/6292175.png" alt="" />
                 <span className="font-bold">samiradmin</span>
             </div>
             <div className="flex items-center gap-5">
